@@ -3,12 +3,12 @@ class Smallest
 {
   public static void main(String args[])
   {
+    int i;
     System.out.println("Enter the elements present in the array");
     Scanner in=new Scanner(System.in);
-    int num=in.next Int();
+    int num=in.nextInt();
     int a[]=new int[num];
     System.out.println("Enter the elements present in the array");
-    int i;
     for(i=0;i<num;i++)
     {
       a[i]=in.nextInt();
@@ -21,7 +21,7 @@ class Smallest
         small=a[i];
       }
     }
-    System.out.println("Smallest element is"+small);
+    System.out.println("Smallest element is "+small);
    }
  }
     
