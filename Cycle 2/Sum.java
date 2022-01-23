@@ -3,6 +3,7 @@ class Sum
 {
   public static void main(String args[])
   {
+    int i,sum=0;
     System.out.println("Enter the number of elements present in the array");
     Scanner in=new Scanner(System.in);
     int n=in.nextInt();
