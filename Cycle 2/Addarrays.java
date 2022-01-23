@@ -1,4 +1,4 @@
-import.java.util.*;
+import java.util.*;
 class Addarrays
 {
   public static void main(String args[])
