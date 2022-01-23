@@ -3,13 +3,13 @@ class Replace
 {
   public static void main(String args[])
   {
+    int i;
     System.out.println("Enter the number of elements present in the array");
     Scanner sc=new Scanner(System.in);
     int n=sc.next Int();
     int a[]=new int[n];
     System.out.println("Enter the elements in the array");
-    int i;
-    for(i=0;i<n;i++);
+    for(i=0;i<n;i++)
     {
       a[i]=sc.nextInt();
     }
