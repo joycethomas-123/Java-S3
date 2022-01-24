@@ -6,7 +6,7 @@ class Replace
     int i;
     System.out.println("Enter the number of elements present in the array");
     Scanner sc=new Scanner(System.in);
-    int n=sc.next Int();
+    int n=sc.nextInt();
     int a[]=new int[n];
     System.out.println("Enter the elements in the array");
     for(i=0;i<n;i++)
