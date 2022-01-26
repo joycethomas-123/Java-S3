@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main
+class PartChar
 {
     public static void main(String args[])
     {
