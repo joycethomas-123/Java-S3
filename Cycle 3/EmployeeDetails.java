@@ -1,5 +1,5 @@
 import java.util.*;
-class Employee 
+class EmployeeDetails 
 {
     String name ;
     int empono,phno;
@@ -31,7 +31,7 @@ class Employee
     public static void main(String args[]) 
     {
         int i;  
-        Main e[] = new Main[50];
+        EmployeeDetails e[] = new EmployeeDetails[50];
         System.out.println("EMPLOYEES DETAILS\n");
         System.out.println();
         for(i=0;i<5;i++) 
