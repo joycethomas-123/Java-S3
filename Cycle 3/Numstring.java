@@ -1,5 +1,5 @@
 import java.util.*;
-class Main
+class Numstring
 {
     public static void main(String args[])
     {
@@ -23,7 +23,7 @@ class Main
     }
 }
 
-class Numstring 
+class String 
 {
     void Concatenate(int a,int b)
        { 
