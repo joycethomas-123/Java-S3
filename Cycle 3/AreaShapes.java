@@ -1,5 +1,5 @@
 import java.util.*;
-class Main
+class AreaShapes
 {
     public static void main(String args[])
     {
