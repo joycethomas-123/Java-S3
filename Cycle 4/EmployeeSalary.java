@@ -1,4 +1,4 @@
-public class Employee
+public class EmployeeSalary
 {
     public static void main(String args[])
     {
@@ -6,7 +6,9 @@ public class Employee
         e.display();
         e.calcSalary();
     }
-
+}
+class Employee
+{
     void display()
     {
         System.out.println("Name of class is Employee.");
