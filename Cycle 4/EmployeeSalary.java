@@ -1,5 +1,5 @@
 import java.util.*;
-public class Employee
+public class EmployeeSalary
 {
     
     
