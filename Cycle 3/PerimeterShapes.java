@@ -1,5 +1,5 @@
 import java.util.*;
-class Main
+class PerimeterShapes
 {
     public static void main(String args[])
     {
