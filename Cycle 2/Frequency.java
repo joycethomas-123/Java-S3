@@ -1,5 +1,5 @@
 import java.util.*;
-class Freqency
+class Frequency
 {
     public static void main(String args[])
     {
